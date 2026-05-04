@@ -56,7 +56,7 @@ export const rhdhPrototypes: Prototype[] = [
     project: 'Workflow Exploration',
     product: 'RHDH',
     description: 'A workflow orchestration component for Red Hat Developer Hub, enabling teams to design, execute, and monitor automated workflows directly from the platform.',
-    externalUrl: 'https://orchestrator-191ef6.pages.redhat.com/',
+    externalUrl: 'https://orchestrator-191ef6.pages.redhat.com/orchestrator',
     path: '',
     status: 'Active',
     lastUpdated: 'Apr 30, 2026',
