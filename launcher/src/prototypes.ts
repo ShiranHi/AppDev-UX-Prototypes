@@ -63,7 +63,7 @@ export const prototypes: Prototype[] = [
     project: 'MTA Integration in Developer Hub',
     product: 'MTA',
     description:
-      'Migration Toolkit for Applications integrated into Red Hat Developer Hub as dynamic plugins — onboarding, migration analysis, target selection, and deployment asset workflows within the RHDH catalog.',
+      'Migration Toolkit for Applications integrated into Red Hat Developer Hub as dynamic plugins. Includes onboarding, migration analysis, target selection, and deployment asset workflows within the RHDH catalog.',
     externalUrl: 'https://mta-prototype-dcohenrh-dev.apps.rm3.7wse.p1.openshiftapps.com',
     buttonLabel: 'Launch prototype',
     path: '',
