@@ -33,4 +33,16 @@ export const podmanDesktopPrototypes: Prototype[] = [
     status: 'In Progress',
     lastUpdated: 'Jun 8, 2026',
   },
+  {
+    name: 'Extensions UX Redesign',
+    project: 'Extension Updates and Catalog Improvements',
+    product: 'Podman Desktop',
+    description: 'A prototype proposing a comprehensive redesign of the Extensions section: the Installed tab, Catalog tab, and extension details page. Introduces a sortable table view, sticky filter toolbar, unified kebab menu, richer lifecycle status indicators, a grid/list view toggle for the Catalog, and a Change version modal — making extension management clearer, more discoverable, and more actionable.',
+    externalUrl: 'https://github.com/podman-desktop/podman-desktop/pull/18297',
+    buttonLabel: 'View PR',
+    path: '',
+    status: 'In Progress',
+    lastUpdated: 'Jul 15, 2026',
+  },
 ]
+
